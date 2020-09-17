@@ -1,0 +1,6 @@
+com\mycompany\proyecto1pr3\Dao\ejemplos\access.class
+com\mycompany\proyecto1pr3\Dao\ejemplos\BD.class
+com\mycompany\proyecto1pr3\Dao\operations\Hiber.class
+com\mycompany\proyecto1pr3\Dao\paisDao.class
+com\mycompany\proyecto1pr3\Dao\modelo\PaisModelo.class
+com\mycompany\proyecto1pr3\Dao\modelo\PaisModelo_.class
